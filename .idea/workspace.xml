@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f8de0c0-0993-4cbb-8adf-9893bd365f5b" name="Changes" comment="" />
+    <list default="true" id="8f8de0c0-0993-4cbb-8adf-9893bd365f5b" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +45,23 @@
       <updated>1699993379809</updated>
       <workItem from="1699993382291" duration="455000" />
       <workItem from="1699993964357" duration="3652000" />
-      <workItem from="1700049102263" duration="3965000" />
+      <workItem from="1700049102263" duration="6262000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1700053195995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700053195995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
