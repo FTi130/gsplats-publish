@@ -35,6 +35,7 @@ const controls = new SPLAT.OrbitControls(camera, renderer.domElement);
 
 
 const urls = [
+    "https://huggingface.co/datasets/FTi130/gsplats-storage/resolve/main/GambinoCab.splat",
     "https://huggingface.co/datasets/FTi130/gsplats-storage/resolve/main/BooksShelf.splat",
     "https://huggingface.co/datasets/dylanebert/3dgs/resolve/main/counter/counter-7k.splat",
     "https://huggingface.co/datasets/dylanebert/3dgs/resolve/main/bonsai/bonsai-7k.splat",
